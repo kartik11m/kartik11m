@@ -1,18 +1,89 @@
-# 💫 About Me:
-I’m a dedicated engineering student with a strong foundation in electronics and programming, complemented by hands-on experience in web development. I’ve built projects using modern technologies including React, Redux, Tailwind CSS, and the MERN Stack (MongoDB, Express.js, React, Node.js).<br><br>My work reflects a keen eye for performance optimization and clean, responsive UI design. Whether it’s crafting intuitive front-end experiences or integrating robust backend systems, I enjoy solving technical challenges and expanding my skills across the full web stack.<br><br> I’m passionate about technology and always looking for opportunities to grow—whether it's through new tools, collaborative projects, or real-world application of scalable development practices.
+<div align="center">
 
+<img src="assets/banner.svg" alt="Kartik Maheshwari, Full Stack Developer" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kartik-maheshwari-267ba5376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikmaheshwari698@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kartik11m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kartik11m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik11m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://linkedin.com/in/kartik-maheshwari-267ba5376"><img src="https://img.shields.io/badge/LINKEDIN-14141f?style=for-the-badge&logo=linkedin&logoColor=fcee0a" /></a>
+<a href="mailto:kartikmaheshwari698@gmail.com"><img src="https://img.shields.io/badge/EMAIL-14141f?style=for-the-badge&logo=gmail&logoColor=00f0ff" /></a>
+<a href="https://github.com/kartik11m"><img src="https://img.shields.io/badge/GITHUB-14141f?style=for-the-badge&logo=github&logoColor=ff2a6d" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-14141f?style=for-the-badge&labelColor=fcee0a" />
+<img src="https://komarev.com/ghpvc/?username=kartik11m&label=PLAYERS+VISITED&color=14141f&labelColor=00f0ff&style=for-the-badge" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<img src="assets/h-player.svg" alt="Player Card" width="100%" />
+<p align="center"><img src="assets/player-card.svg" alt="Player card" width="100%" /></p>
+<p align="center"><img src="assets/stat-tiles.svg" alt="Stats" width="100%" /></p>
+
+<img src="assets/h-loadout.svg" alt="Loadout" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp&perline=12&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,threejs,gsap&perline=12&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,tensorflow,sklearn,numpy&perline=12&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman&perline=12&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-14141f?style=flat-square&logo=jsonwebtokens&logoColor=fcee0a" />
+  <img src="https://img.shields.io/badge/Clerk-14141f?style=flat-square&logo=clerk&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Inngest-14141f?style=flat-square&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-14141f?style=flat-square&logo=googlemaps&logoColor=fcee0a" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-14141f?style=flat-square&logo=threedotjs&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Agile-14141f?style=flat-square&logoColor=ff2a6d" />
+</p>
+
+<img src="assets/h-quests.svg" alt="Quest Log" width="100%" />
+<p align="center">
+  <a href="https://nimolabs.in"><img src="assets/quest-nimo.svg" alt="Main quest: Nimo Labs website" width="100%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kartik11m"><img src="assets/quest-quickshow.svg" alt="Side quest: QuickShow" width="49%" /></a>
+  <a href="https://github.com/kartik11m"><img src="assets/quest-uber.svg" alt="Side quest: Uber-Mobile" width="49%" /></a>
+</p>
+
+<img src="assets/h-achievements.svg" alt="Achievements Unlocked" width="100%" />
+<p align="center">
+  <img src="assets/ach-1.svg" alt="Intern of the Month" width="32%" />
+  <img src="assets/ach-2.svg" alt="Speed Run" width="32%" />
+  <img src="assets/ach-3.svg" alt="Ahead of Plan" width="32%" /><br/>
+  <a href="https://coursera.org/verify/specialization/EG1QQTL2AE2K"><img src="assets/ach-4.svg" alt="ML Specialization" width="32%" /></a>
+  <img src="assets/ach-5.svg" alt="350+ LeetCode" width="32%" />
+  <img src="assets/ach-6.svg" alt="Client Won" width="32%" />
+</p>
+
+<img src="assets/h-history.svg" alt="Campaign History" width="100%" />
+<p align="center"><img src="assets/history-terminal.svg" alt="Experience timeline" width="100%" /></p>
+
+<img src="assets/h-stats.svg" alt="Player Stats" width="100%" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartik11m&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a12&title_color=fcee0a&icon_color=00f0ff&text_color=e8e8f2&ring_color=fcee0a" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik11m&layout=compact&hide_border=true&bg_color=0a0a12&title_color=fcee0a&text_color=e8e8f2" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=kartik11m&hide_border=true&background=0a0a12&ring=fcee0a&fire=ff2a6d&currStreakLabel=00f0ff&sideLabels=00f0ff&currStreakNum=fcee0a&sideNums=fcee0a&dates=8b8ba7" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik11m&bg_color=0a0a12&color=fcee0a&line=00f0ff&point=ff2a6d&area=true&area_color=2b2b00&hide_border=true" width="95%" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kartik11m&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</div>
+
+<img src="assets/h-snake.svg" alt="Snake.exe" width="100%" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartik11m/kartik11m/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartik11m/kartik11m/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kartik11m/kartik11m/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="assets/h-party.svg" alt="Join my party" width="100%" />
+<div align="center">
+
+**Open to full stack / MERN roles, freelance quests and co-op projects.**
+
+📧 **kartikmaheshwari698@gmail.com** &nbsp;|&nbsp; 🔗 **[linkedin.com/in/kartik-maheshwari-267ba5376](https://linkedin.com/in/kartik-maheshwari-267ba5376)**
+
+<img src="assets/footer.svg" alt="Game over? Nope. Insert coin to continue" width="100%" />
+
+</div>
